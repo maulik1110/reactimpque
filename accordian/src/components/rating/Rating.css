@@ -1,0 +1,11 @@
+.active{
+    color: yellow;
+}
+
+.inactive{
+    color: #000;;
+}
+
+.star-rating{
+    background-color: orange;
+}
